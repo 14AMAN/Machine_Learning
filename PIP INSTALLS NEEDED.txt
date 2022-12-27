@@ -1,0 +1,17 @@
+pip install --
+
+1. numpy
+2. pandas
+(data input-output in pandas)
+3. sqlalchemy
+4. lxml
+5. BeautifulSoup4
+6. xlrd
+7. openpyxl
+8. matplotlib
+9. seaborn
+10. scipy
+11. plotly
+12. cufflinks
+13. chart_studio
+14. nbformat
