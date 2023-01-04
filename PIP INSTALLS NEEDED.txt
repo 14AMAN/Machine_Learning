@@ -15,3 +15,5 @@ pip install --
 12. cufflinks
 13. chart_studio
 14. nbformat
+15. pandas-reader
+16. scikit-learn
