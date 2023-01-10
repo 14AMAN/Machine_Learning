@@ -3,6 +3,12 @@
     "git.ignoreLimitWarning": true,
     "files.associations": {
         "*.html": "django-html",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp"
     }
 }
